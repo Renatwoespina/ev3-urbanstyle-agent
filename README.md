@@ -1,4 +1,4 @@
-# UrbanStyle Agent — Agente Inteligente de Atención (Evaluación 2)
+# UrbanStyle Agent — Agente Inteligente de Atención (Evaluación 3)
 
 Agente funcional de atención al cliente para **UrbanStyle Chile** que integra herramientas de **consulta**, **razonamiento** y **escritura** sobre un framework de agentes (LangChain + Groq), con **memoria de corto y largo plazo**, **planificación adaptativa** y **auditoría** de cada interacción.
 
